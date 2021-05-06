@@ -10,6 +10,7 @@ public class User {
     public User() {
     }
 
+    //master分支上添加的有参构造器
     public User(Integer id, String username, String password, String email) {
         this.id = id;
         this.username = username;
