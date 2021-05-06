@@ -1,4 +1,4 @@
-package com.atguigu.pojo;
+package com.atguigu.Pojo;
 
 public class User {
     private Integer id;
@@ -6,6 +6,7 @@ public class User {
     private String password;
     private String email;
 
+    //空构造器
     public User() {
     }
 
